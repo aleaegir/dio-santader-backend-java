@@ -14,14 +14,39 @@ Se não ultrapassar, o programa informará que o saque foi realizado com sucesso
 ##Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-1500
-430
-0	Saque realizado. Limite restante: 1070.0
-Transacoes encerradas.
-500
-1500	Limite diario de saque atingido. Transacoes encerradas.
-80
-40
-0	Saque realizado. Limite restante: 40.0
-Transacoes encerradas.
+<table>
+  <thead>
+    <tr align="left">
+      <th>Entrada</th>
+      <th>Saída</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>1500<br>
+        430<br>
+         0<br>
+      </td>
+      <td>Saque realizado. Limite restante: 1070.0<br>
+        Transacoes encerradas.<br>
+      </td>
+    </tr>
+    <tr>
+      <td>500<br>
+          1500<br>
+      </td>
+      <td>Limite diario de saque atingido. Transacoes encerradas.</td>
+    </tr>
+    <tr>
+      <td>80<br>
+          40<br>
+          0<br>
+</td>
+      <td>Saque realizado. Limite restante: 40.0<br>
+          Transacoes encerradas.<br>
+</td>   
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+      
