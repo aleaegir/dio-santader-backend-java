@@ -1,3 +1,8 @@
+# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Condições, Loops e Exceções na Prática com Java
+www.dio.me
+
+
+# Desafio 03 / 05 - Verificador de Idade para Conta Bancária
 ## Descrição
 Você está desenvolvendo um programa simples em Java para verificar se um cliente é elegível para criar uma conta bancária. A condição é que o cliente deve ter pelo menos 18 anos de idade.
 
