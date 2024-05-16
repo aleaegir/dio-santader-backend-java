@@ -17,11 +17,32 @@ Caso contrário, o programa informará que a transação foi realizada com suces
 ## Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-| Entrada |  Saída |
-|---------|--------|
-|1000
-|100	| Transação realizada com sucesso. |
-|2500 
-|2750	| Transação realizada com sucesso utilizando o cheque especial. |
-|300 |
-|1500	| Transação não realizada. Limite do cheque especial excedido. |
+<table>
+  <thead>
+    <tr align="left">
+      <th>Entrada</th>
+      <th>Saída</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>1000<br>
+100
+      </td>
+      <td>Transação realizada com sucesso.
+      </td>
+    </tr>
+    <tr>
+      <td>2500 <br>
+2750
+      </td>
+      <td>Transação realizada com sucesso utilizando o cheque especial.</td>
+    </tr>
+    <tr>
+      <td>300<br>
+1500</td>
+      <td>Transação não realizada. Limite do cheque especial excedido.</td>   
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
