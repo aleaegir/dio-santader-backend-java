@@ -1,7 +1,7 @@
 # [DIO](www.dio.me) - Trilha Java Básico
 
-## Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+## Introdução
+- Desafio do curso Trilha Java Básico da [DIO](www.dio.me) ministrado pelo instrutor [Gleyson Sampaio](https://github.com/glysns).
 
 ## POO - Desafio
 
